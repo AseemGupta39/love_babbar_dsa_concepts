@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int my_pow(int base,int exp)
+long long my_pow(long long base,long long exp)
 {
     if(exp==0 && base!=0){
         return 1;
@@ -17,14 +17,14 @@ int my_pow(int base,int exp)
         exp=exp*-1;
     }
 
-    int ans = 1;
+    long long ans = 1;
     
     while(exp!=0){
         if (exp%2!=0){
             ans = ans * base;
         }
         base = base*base;
-        exp/=2;
+        exp>>=1;
     }
     
     if(is_negitive==true){
@@ -37,7 +37,7 @@ int my_pow(int base,int exp)
 int main() {
   cout << "program started\n";
 
-  int base,exp;
+  long long base,exp;
   cin >> base >> exp;
 
     cout << my_pow(base,exp);
