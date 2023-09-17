@@ -1,3 +1,4 @@
 Lecture 15 Pura Hi Dubara Dekhna Hai
 Lecture 21 Add 2 Arrays
 Lecture 24 ye topics homework ke hai segmented sieve,pigonhole principle catalon numbers,inclusion exclusion principle
+Lecture 27 28 29 skip kiye hai baad me dekhne hai(Jarur se)
