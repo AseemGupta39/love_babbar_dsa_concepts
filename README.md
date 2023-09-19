@@ -10,7 +10,10 @@ Status Completed
 Status Completed
 
 ### Recursion
-On Progress
+Almost hogai hai
 
 ### Linked List
+On Progress
+
+### Stack
 On Progress
