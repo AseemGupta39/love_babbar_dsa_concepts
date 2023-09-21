@@ -4,3 +4,5 @@ Lecture 24 ye topics homework ke hai segmented sieve,pigonhole principle catalon
 Lecture 27 28 29 skip kiye hai baad me dekhne hai(Jarur se)
 Lecture 34 last me diya gaya homework karo(selection aur insertion sort ko recursively solve karo)
 Lecture 37 dubara se dekho aur bits mani se try karo
+Lecture 38 se 53 skip kare hai unko dekhna hai
+Lecture 44 dekhna hai skip kara hai
