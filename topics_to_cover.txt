@@ -1,8 +1,48 @@
-Lecture 15 Pura Hi Dubara Dekhna Hai
-Lecture 21 Add 2 Arrays
-Lecture 24 ye topics homework ke hai segmented sieve,pigonhole principle catalon numbers,inclusion exclusion principle
-Lecture 27 28 29 skip kiye hai baad me dekhne hai(Jarur se)
-Lecture 34 last me diya gaya homework karo(selection aur insertion sort ko recursively solve karo)
-Lecture 37 dubara se dekho aur bits mani se try karo
-Lecture 38 se 53 skip kare hai unko dekhna hai
-Lecture 44 dekhna hai skip kara hai
+Lecture 15
+Pura Hi Dubara Dekhna Hai
+
+Lecture 21 
+Add 2 Arrays
+
+Lecture 24
+ye topics homework ke hai segmented sieve,pigonhole principle catalon numbers,inclusion exclusion principle
+
+Lecture 27 28 29 
+skip kiye hai baad me dekhne hai(Jarur se)
+
+Lecture 34 
+last me diya gaya homework karo(selection aur insertion sort ko recursively solve karo)
+
+Lecture 37 
+dubara se dekho aur bits mani se try karo
+
+Lecture 38 se 53 
+skip kare hai unko dekhna hai
+
+Lecture 42
+const keyword (object creation functions )  
+initialisation list
+
+Lecture 44 
+dekhna hai skip kara hai
+
+Lecture 45 
+me recursive karne hai
+
+Lecture 46 
+me reverse kk dubara karna hai
+
+Lecture 49
+me sort aurmerge 012 ll approach 2 ho gaya bas code dubara dekhna hai
+
+Lecture 50 
+me code galat copy kiya hai bas varna concept aa gaya hai
+
+
+
+Lecture 52 53 
+Dekhna hai skip kara hai
+
+Lecture 57
+celebrity problem ke aur approaches dhundne hai
+aur max rectangle dubara se dekhna hai aur code karna h
