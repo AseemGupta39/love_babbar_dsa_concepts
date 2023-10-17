@@ -1,16 +1,18 @@
 #include <iostream>
-
+#include <queue>
 using std::cout;
 using std::cin;
+using std::queue;
 
-class queue{
+
+class Queue{
     int *arr;
     int front,rear;
     int size;
 
     public:
 
-    queue(int size){
+    Queue(int size){
         this->size = size;
         arr = new int[size];
         front = rear = 0;
@@ -62,22 +64,29 @@ class queue{
 
 };
 
+void print_queue(queue<int> q){
+    while(!q.empty()){
+        cout << q.front() << " ";
+        q.pop();
+    }
+    cout << "\n";
+}
 
-int main() {
-  cout << "program started\n";
-    queue* q = new queue(5);
+// int main() {
+//   cout << "program started\n";
+//     Queue* q = new Queue(5);
 
-    q->print();
-    q->enqueue(10);
-    q->enqueue(20);
-    q->enqueue(30);
-    q->enqueue(40);
-    q->enqueue(50);
-    q->enqueue(60);
+//     q->print();
+//     q->enqueue(10);
+//     q->enqueue(20);
+//     q->enqueue(30);
+//     q->enqueue(40);
+//     q->enqueue(50);
+//     q->enqueue(60);
 
-    q->print();
+//     q->print();
     
 
-  cout << "\nprogram ended\n";
-  return 0;
-}
+//   cout << "\nprogram ended\n";
+//   return 0;
+// }
