@@ -38,11 +38,18 @@ me sort aurmerge 012 ll approach 2 ho gaya bas code dubara dekhna hai
 Lecture 50 
 me code galat copy kiya hai bas varna concept aa gaya hai
 
-
-
 Lecture 52 53 
 Dekhna hai skip kara hai
 
 Lecture 57
 celebrity problem ke aur approaches dhundne hai
 aur max rectangle dubara se dekhna hai aur code karna h
+
+Lecture 58
+N stacks dubara dekhna hai
+
+Lecture 59 60
+Dekhna hai skip kara hai
+
+Lecture 61
+find optimal approach of first k -ve integer in winkow k
